@@ -2,7 +2,7 @@
 
 ## Description
 
-For this class, I wanted to build a prework study guide webpage to use to study what I've learned so far before the actual bootcamp begins. This webpage provides me with not only information I can use to study, but also experience in using HTML, CSS, JavaScript, and Git before the class begins. Allowing me to be more comfortable and confident in my proformance during the upcoming bootcamp.
+For this class, I wanted to build a prework study guide webpage to use to study what I've learned so far before the actual bootcamp begins. This webpage provides me with not only information I can use to study, but also experience in using HTML, CSS, JavaScript, and Git before the class begins. Allowing me to be more comfortable and confident in my performance during the upcoming bootcamp.
 
 ## Installation
 
